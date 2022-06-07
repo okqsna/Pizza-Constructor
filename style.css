@@ -54,7 +54,7 @@ div {
 }
 h2 {
     color: #fff;
-    font-family: 'Satisfy', cursive;
+    font-family:'Poppins';
     border: 1px solid #ed9907;
     padding: 10px;
     background-color: #ed9907;
@@ -167,7 +167,7 @@ p {
     cursor: pointer;
     height: 60px;
     line-height: 60px;
-    font-family: monospace;
+    font-family:'Poppins';
     font-weight: 900;
     font-size: 16px;
 }
@@ -182,6 +182,6 @@ p {
     border-radius: 30px;
     font-size: 12px;
     line-height: 30px;
-    font-family: monospace;
+    font-family:'Poppins';
     font-weight: 900;
 }
